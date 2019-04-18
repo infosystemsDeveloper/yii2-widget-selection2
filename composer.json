@@ -1,8 +1,8 @@
 {
-    "name": "kartik-v/yii2-widget-select2",
+    "name": "infosystemsDeveloper/yii2-widget-selection2",
     "description": "Enhanced Yii2 wrapper for the Select2 jQuery plugin (sub repo split from yii2-widgets).",
     "keywords": ["yii2", "extension", "widget", "select2", "form", "dropdown", "jquery", "plugin"],
-    "homepage": "https://github.com/kartik-v/yii2-widget-select2",
+    "homepage": "https://github.com/infosystemsDeveloper/yii2-widget-selection2",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
